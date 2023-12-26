@@ -1,0 +1,33 @@
+_repo: The-inverted-pyramid_72392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, William Brown
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_William_Sinclair
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72392'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x030787273&seq=7
+pgterms:marc905: 20231207163820sinclair
+pgterms:marc906: '1924'
+pgterms:marc907: ca
+production_note: Al Haines
+publication_note: '  $aToronto :$bFrederick D. Goodchild, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The inverted pyramid
+url: http://www.gutenberg.org/ebooks/72392
